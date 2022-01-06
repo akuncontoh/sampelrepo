@@ -4,3 +4,6 @@ tomat
 
 Cabai
 Markisa
+
+Terong
+Pisang
